@@ -18,9 +18,9 @@ Esta organização contém os projetos desenvolvidos pelos alunos ao longo do cu
 
 | Integrantes | Função no Projeto |
 | :--- | :--- |
-| Camila Silva | Scrum Master |
+| Camila Silva | Product Owner |
 | Flávio Almeida | Dev Team |
-| Igor Norberto | Product Owner |
+| Igor Norberto | Scrum Master |
 | Juan Victor | Dev Team |
 | Pedro Henrique | Dev Team |
 | Renan Matheus | Dev Team |
